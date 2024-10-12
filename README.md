@@ -1,5 +1,6 @@
 # RestaurantReviews
 This project focuses on analyzing customer reviews for restaurants and predicting the sentiment (positive or negative) using machine learning techniques
+[RestaurantReviews](https://github.com/PRANAVKUMAR183/RestaurantReviews)
 
 Key Techniques Used:
   Data Preprocessing: Cleaned and prepared text data.
